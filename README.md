@@ -821,7 +821,7 @@ This overview is the response for a CIAM solution using Azure AD B2C. As our ser
   <td width=100 nowrap style='width:75.25pt;border:none;border-bottom:solid #8EA9DB 1.0pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:28.5pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=EN-US style='color:black'>B2B2B use case connected vessels</span></p>
+  lang=EN-US style='color:black'>B2B2B use case connected vehicles</span></p>
   </td>
   <td width=331 style='width:248.25pt;border:none;border-bottom:solid #8EA9DB 1.0pt;
   padding:0cm 3.5pt 0cm 3.5pt;height:28.5pt'>
@@ -852,14 +852,14 @@ This overview is the response for a CIAM solution using Azure AD B2C. As our ser
   <td width=100 nowrap style='width:75.25pt;border:none;border-bottom:solid #8EA9DB 1.0pt;
   background:#D9E1F2;padding:0cm 3.5pt 0cm 3.5pt;height:42.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=EN-US style='color:black'>B2B2B use case connected vessels</span></p>
+  lang=EN-US style='color:black'>B2B2B use case connected vehicles</span></p>
   </td>
   <td width=331 style='width:248.25pt;border:none;border-bottom:solid #8EA9DB 1.0pt;
   background:#D9E1F2;padding:0cm 3.5pt 0cm 3.5pt;height:42.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
   lang=EN-US style='color:black'>As a <i>Client</i> employee I want to be able
   to give access to the information of the <i>Client</i> customer IOT connected
-  vessels to 3rd party companys of which <i>Client</i> resells services</span></p>
+  vehicles to 3rd party companys of which <i>Client</i> resells services</span></p>
   </td>
   <td width=586 style='width:439.75pt;border-top:none;border-left:none;
   border-bottom:solid #8EA9DB 1.0pt;border-right:solid #8EA9DB 1.0pt;
